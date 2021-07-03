@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ObjectOrientedCalculator
+namespace Object
 {
     static class Program
     {
@@ -17,7 +17,7 @@ namespace ObjectOrientedCalculator
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Калькуляторр());
+            Application.Run(new Form1());
         }
     }
 }

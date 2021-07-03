@@ -1,5 +1,5 @@
 ﻿
-namespace ObjectOrientedCalculator
+namespace Object
 {
     partial class Form1
     {
